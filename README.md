@@ -15,3 +15,6 @@ where:
   playlist_name: the filename without extension
 
 
+### Requirements
+
+Decent version of Ruby and Bash
